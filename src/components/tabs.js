@@ -14,7 +14,6 @@ const Tabs = (topics) => {
   //   <div class="tab">technology</div>
   // </div>
   //
-  console.log(topics);
   const topicsWrapper = document.createElement('div');
 
   topicsWrapper.classList.add('topics');
